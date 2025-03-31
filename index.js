@@ -25,7 +25,7 @@ function generateAd() {
             "video": "restro_video.mp4"
         },
         "clothing brand": {
-            "image": "cloth_ad_pic.png",
+            "image": "Cloth_ad_pic.png",
             "video": "fashion_video.mp4"
         }
     };
