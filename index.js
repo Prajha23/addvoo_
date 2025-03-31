@@ -13,20 +13,20 @@ function generateAd() {
 
     let adData = {
         "general store": {
-            "image": "/static/demo/stationery_pic.png",
-            "video": "/static/demo/store_video.mp4"
+            "image": "stationery_pic.png",
+            "video": "store_video.mp4"
         },
         "car service": {
-            "image": "/static/demo/car_pic.png",
-            "video": "/static/demo/car_video.mp4"
+            "image": "car_pic.png",
+            "video": "car_video.mp4"
         },
         "restaurant": {
-            "image": "/static/demo/restro_pic.png",
-            "video": "/static/demo/restro_video.mp4"
+            "image": "restro_pic.png",
+            "video": "restro_video.mp4"
         },
         "clothing brand": {
-            "image": "/static/demo/cloth_ad_pic.png",
-            "video": "/static/demo/fashion_video.mp4"
+            "image": "cloth_ad_pic.png",
+            "video": "fashion_video.mp4"
         }
     };
 
